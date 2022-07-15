@@ -1,0 +1,39 @@
+body{
+    background-size:cover;
+}
+.div_speed{
+    float:left;
+}
+.div_volume{
+    float:right;
+}
+#speed,#volume{
+    margin:15px;
+    font-size:23px;
+}
+.heading{
+    font-size:23px;
+    width:100%;
+    margin:0px;
+}
+.note{
+    font-size:15px;
+    color:black;
+}
+.div_img{
+    width:200px;
+    border-radius:100px;
+}
+.play_btn{
+font-size:25px;
+width:130px;
+margin:20px;
+}
+#song{
+   background-color: black;
+   color: white;
+   border: double whitesmoke;
+   border-radius: 10px;
+   text-align: center;
+   font-size:25px;
+}
