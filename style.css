@@ -1,22 +1,13 @@
-#canvas{
+canvas{
     border: solid;
     border-color: white;
-    width: 600px;
-    height: 500px;
+    box-shadow:10px,gray ;
+    margin-top: 150px;
 }
 body{
     background-size:cover;
 }
-.div_speed{
-    float:left;
-}
-.div_volume{
-    float:right;
-}
-#speed,#volume{
-    margin:15px;
-    font-size:23px;
-}
+
 .heading{
     font-size:23px;
     width:100%;
@@ -26,21 +17,10 @@ body{
     font-size:15px;
     color:black;
 }
-.div_img{
-    width:200px;
-    border-radius:100px;
-}
-.play_btn{
-font-size:25px;
-width:130px;
-margin:20px;
-margin-bottom: 30px;
-}
+
 #song{
-   background-color: black;
-   color: white;
-   border: double whitesmoke;
    border-radius: 10px;
    text-align: center;
-   font-size:25px;
+   font-size:23px;
+   width: 150px;
 }
